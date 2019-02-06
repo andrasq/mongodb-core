@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-core",
+  "name": "@progresskinvey/mongodb-core",
   "version": "2.1.17",
   "description": "Core MongoDB driver functionality, no bells and whistles and meant for integration not end applications",
   "main": "index.js",
